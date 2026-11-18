@@ -1,0 +1,16 @@
+h1{
+    color: rgb(19, 18, 18);
+    text-shadow:4px 5px 5px color rgb(240, 157, 240);
+    text-align: center;
+}  
+h2{
+    color: rgb(224, 15, 183);
+    background-color: rgb(14, 185, 232);
+    text-align: center;
+}
+h2{
+    color: rgb(220, 26, 207);
+}
+body{
+    background-color: rgb(33, 229, 187);
+}
